@@ -1,0 +1,21 @@
+# dependencies
+cv-app/node_modules
+cv-app/*.pnp
+cv-app/*.pnp.js
+
+# testing
+cv-app/coverage
+
+# production
+cv-app/build
+
+# misc
+cv-app/*.DS_Store
+cv-app/*.env.local
+cv-app/*.env.development.local
+cv-app/*.env.test.local
+cv-app/*.env.production.local
+
+cv-app/*npm-debug.log*
+cv-app/*yarn-debug.log*
+cv-app/*yarn-error.log*
