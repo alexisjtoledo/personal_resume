@@ -1,3 +1,3 @@
 # personal_resume
 
-Personal Resume made with HTML5, CSS3, JS and BOOTSTRAP 4.
+Personal CV page made in ReactJS using Bootstrap 4.
