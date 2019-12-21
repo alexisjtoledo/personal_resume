@@ -856,7 +856,6 @@ export class Portfolio extends Component {
                                             <div className="card-body">
                                                 <h5 className="card-title">2016 - Franja Morada Córdoba</h5>
                                                 <p className="card-text">Rebranding</p>
-                                                <a href="/" className="btn btn-primary btn-block">Go to website <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
 
@@ -875,8 +874,7 @@ export class Portfolio extends Component {
                                             <img src={b_mercoced} className="card-img-top" alt="MercoCED Logo" />
                                             <div className="card-body">
                                                 <h5 className="card-title">2016 - MercoCED</h5>
-                                                <p className="card-text">Cration of identity and Brand Manual</p>
-                                                <a href="/" className="btn btn-primary btn-block">Go to website <i className="fa fa-sign-out" aria-hidden="true"></i></a>
+                                                <p className="card-text">Creation of identity and Brand Manual</p>
                                             </div>
                                         </div>
 
@@ -885,7 +883,7 @@ export class Portfolio extends Component {
                                             <img src={b_cider} className="card-img-top" alt="Universitarian Federation of Córdoba Logo" />
                                             <div className="card-body">
                                                 <h5 className="card-title">2014 - International Congress of "Río de la Plata"</h5>
-                                                <p className="card-text">Cration of identity and Brand Manual</p>
+                                                <p className="card-text">Creation of identity and Brand Manual</p>
                                             </div>
                                         </div>
 
