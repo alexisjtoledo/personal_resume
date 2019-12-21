@@ -238,8 +238,8 @@ export class Portfolio extends Component {
                                         <div className="card shadow">
                                             <img src={peducativosapp_1} className="card-img-top" alt="Parques Educativos App" />
                                             <div className="card-body">
-                                                <h5 className="card-title">2015 - Parques Educativos App</h5>
-                                                <p className="card-text">HTML5 + CSS3 + JS + MySQL</p>
+                                                <h5 className="card-title">2015 - Parques Educativos Webapp</h5>
+                                                <p className="card-text">Frontend: HTML5 + CSS3 + JS + jQuery</p>
                                             </div>
                                         </div>
 
