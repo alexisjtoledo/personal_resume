@@ -30,6 +30,9 @@ import brochure_1 from '../img/portfolio/brochures/brochure_1.png';
 import brochure_2 from '../img/portfolio/brochures/brochure_2.png';
 import brochure_3 from '../img/portfolio/brochures/brochure_3.png';
 import brochure_4 from '../img/portfolio/brochures/brochure_4.png';
+import brochure_4_a from '../img/portfolio/brochures/brochure_4_a.png';
+import brochure_4_b from '../img/portfolio/brochures/brochure_4_b.png';
+import brochure_4_c from '../img/portfolio/brochures/brochure_4_c.png';
 import brochure_5 from '../img/portfolio/brochures/brochure_5.png';
 import brochure_6 from '../img/portfolio/brochures/brochure_6.png';
 import brochure_7 from '../img/portfolio/brochures/brochure_7.png';
@@ -402,7 +405,6 @@ export class Portfolio extends Component {
                             </div>
                         </div>
 
-
                         {/* GRAPHIC DESIGN */}
                         <div className="card">
                             <div className="card-header" id="headingGraphic">
@@ -435,6 +437,18 @@ export class Portfolio extends Component {
 
                                                     <div className="carousel-item">
                                                         <img src={brochure_4} className="d-block w-100" alt="Parque Educativo Noroeste" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={brochure_4_a} className="d-block w-100" alt="Guía Universitaria 2014" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={brochure_4_b} className="d-block w-100" alt="Guía Universitaria 2014" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={brochure_4_c} className="d-block w-100" alt="Guía Universitaria 2014" />
                                                     </div>
 
                                                     <div className="carousel-item">
@@ -813,7 +827,6 @@ export class Portfolio extends Component {
                             </div>
                         </div>
 
-
                         {/* BRANDING */}
                         <div className="card">
                             <div className="card-header" id="headingBranding">
@@ -880,7 +893,6 @@ export class Portfolio extends Component {
                                 </div>
                             </div>
                         </div>
-
 
                         {/* SIGNAGE DESIGN */}
                         <div className="card">
@@ -1051,7 +1063,6 @@ export class Portfolio extends Component {
                                 </div>
                             </div>
                         </div>
-
 
                         {/* VIDEO & ANIMATIONS */}
                         <div className="card">
