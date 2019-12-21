@@ -240,10 +240,11 @@ export class Portfolio extends Component {
                                             <div className="card-body">
                                                 <h5 className="card-title">2015 - Parques Educativos Webapp</h5>
                                                 <p className="card-text">Frontend: HTML5 + CSS3 + JS + jQuery</p>
+                                                <a href="https://educacion.cordoba.gob.ar/parqueseducativos/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Go to website <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
 
-                                        {/* FMderecho New App */}
+                                        {/* FMderecho Old App */}
                                         <div className="card shadow">
                                             <div id="carouselFMold" className="carousel slide" data-ride="carousel">
                                                 <div className="carousel-inner">
