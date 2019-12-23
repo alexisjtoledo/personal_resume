@@ -32,7 +32,8 @@ import brochure_3 from '../img/portfolio/brochures/brochure_3.png';
 import brochure_4 from '../img/portfolio/brochures/brochure_4.png';
 import brochure_4_a from '../img/portfolio/brochures/brochure_4_a.png';
 import brochure_4_b from '../img/portfolio/brochures/brochure_4_b.png';
-import brochure_4_c from '../img/portfolio/brochures/brochure_4_c.png';
+import brochure_4_d from '../img/portfolio/brochures/brochure_4_d.png';
+import brochure_4_e from '../img/portfolio/brochures/brochure_4_e.png';
 import brochure_5 from '../img/portfolio/brochures/brochure_5.png';
 import brochure_6 from '../img/portfolio/brochures/brochure_6.png';
 import brochure_7 from '../img/portfolio/brochures/brochure_7.png';
@@ -70,6 +71,8 @@ import folder_2 from '../img/portfolio/folders/folder_2.png';
 import folder_3 from '../img/portfolio/folders/folder_3.png';
 import folder_4 from '../img/portfolio/folders/folder_4.png';
 import folder_5 from '../img/portfolio/folders/folder_5.png';
+import folder_6 from '../img/portfolio/folders/folder_6.png';
+import folder_7 from '../img/portfolio/folders/folder_7.png';
 import pbc_1 from '../img/portfolio/pbc/pbc_1.png';
 import pbc_2 from '../img/portfolio/pbc/pbc_2.png';
 import pbc_3 from '../img/portfolio/pbc/pbc_3.png';
@@ -180,7 +183,7 @@ export class Portfolio extends Component {
                                             <img src={cv_1} className="card-img-top" alt="Alexis Toledo's CV webpage" />
                                             <div className="card-body">
                                                 <h5 className="card-title">2019 - Personal CV page</h5>
-                                                <p className="card-text">Adobe XD - ReactJS - Bootstrap 4</p>
+                                                <p className="card-text">Adobe XD - ReactJS - Bootstrap 4 - Custom CSS</p>
                                                 <a href="/" className="btn btn-primary btn-block">Reload Page <i className="fa fa-repeat" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
@@ -213,7 +216,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2018 - Municipal Education Congress</h5>
-                                                <p className="card-text">HTML5 - CSS3 - JS - jQuery - Materialize</p>
+                                                <p className="card-text">HTML5 - CSS3 - JS - jQuery - Materialize - Phonegap Build</p>
                                                 <a href="https://play.google.com/store/apps/details?id=ar.gob.cordoba.congreso_municipal_educacion" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">View on Play Store <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
@@ -275,7 +278,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2014 - FMderecho old app</h5>
-                                                <p className="card-text">HTML5 - CSS3 - JS - jQuery</p>
+                                                <p className="card-text">HTML5 - CSS3 - JS - jQuery - Phonegap Build</p>
                                                 <a href="https://apkpure.com/es/fmderecho/com.franjamorada.fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">View in archive <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
@@ -395,7 +398,7 @@ export class Portfolio extends Component {
                                                 </a>
                                             </div>
                                             <div className="card-body">
-                                                <h5 className="card-title">2017 - Civil &amp; Penal Codes from Argentina.</h5>
+                                                <h5 className="card-title">2017 - Collection of Civil Code, Penal Code &amp; National Constitution from Argentina.</h5>
                                                 <p className="card-text">Editorial &amp; cover design for the entire collection of codes. Adobe Illustrator.</p>
                                             </div>
                                         </div>
@@ -448,7 +451,11 @@ export class Portfolio extends Component {
                                                     </div>
 
                                                     <div className="carousel-item">
-                                                        <img src={brochure_4_c} className="d-block w-100" alt="Guía Universitaria 2014" />
+                                                        <img src={brochure_4_d} className="d-block w-100" alt="Guía Universitaria 2014" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={brochure_4_e} className="d-block w-100" alt="Guía Universitaria 2014" />
                                                     </div>
 
                                                     <div className="carousel-item">
@@ -677,6 +684,14 @@ export class Portfolio extends Component {
 
                                                     <div className="carousel-item">
                                                         <img src={folder_5} className="d-block w-100" alt="Brenda Austin" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={folder_6} className="d-block w-100" alt="CIDER folder" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={folder_7} className="d-block w-100" alt="CIDER folder" />
                                                     </div>
 
                                                 </div>
@@ -1082,7 +1097,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2018 - Loop "Congreso Municipal de Educación"</h5>
-                                                <p className="card-text">Adobe After Effects</p>
+                                                <p className="card-text">Adobe After Effects - Adobe Illustrator</p>
                                             </div>
                                         </div>
 
@@ -1115,7 +1130,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2018 - Swimming project in municipal schools</h5>
-                                                <p className="card-text">Adobe Premiere Pro - Adobe After Effects</p>
+                                                <p className="card-text">Adobe Premiere Pro - Adobe After Effects - Adobe Illustrator</p>
                                             </div>
                                         </div>
 
@@ -1126,7 +1141,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2018 - IG Ad Story for Next &#40;Eilat&#41;</h5>
-                                                <p className="card-text">Adobe After Effects</p>
+                                                <p className="card-text">Adobe After Effects - Adobe Illustrator - Adobe Photoshop</p>
                                             </div>
                                         </div>
 
@@ -1137,7 +1152,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2018 - Animated IG Story for Güemes</h5>
-                                                <p className="card-text">Adobe After Effects</p>
+                                                <p className="card-text">Adobe After Effects - Adobe Illustrator</p>
                                             </div>
                                         </div>
 
@@ -1148,7 +1163,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2018 - Animated IG Story for Güemes</h5>
-                                                <p className="card-text">Adobe After Effects</p>
+                                                <p className="card-text">Adobe After Effects - Adobe Illustrator - Adobe Photoshop</p>
                                             </div>
                                         </div>
 
@@ -1159,7 +1174,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2015 - Loop "Parques Educativos"</h5>
-                                                <p className="card-text">Adobe After Effects</p>
+                                                <p className="card-text">Adobe After Effects - Adobe Illustrator</p>
                                             </div>
                                         </div>
 

@@ -18,7 +18,7 @@ export class About extends Component {
                 <p><i className="fa fa-envelope" aria-hidden="true"></i> <strong>Contact me: </strong><a href="mailto:alexis.toledo@live.com" target="_blank" rel="noopener noreferrer"> alexis.toledo@live.com</a></p>
                 <p><i className="fa fa-github" aria-hidden="true"></i> <strong>My repository: </strong><a href="https://github.com/alexisjtoledo" target="_blank" rel="noopener noreferrer"> alexisjtoledo on Github</a></p>
                 <p><i className="fa fa-linkedin-square" aria-hidden="true"></i> <strong>My Professional profile: </strong><a href="https://github.com/alexisjtoledo" target="_blank" rel="noopener noreferrer"> alexistoledo on LinkedIn</a></p>
-                <br/><br/>
+                <br/>
                 <a href="https://drive.google.com/file/d/1dQ8NcI3zNNYqMTNa2dUWNdSxn8N3A8wG/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="no-link">
                     <button type="button" className="btn btn-primary btn-lg btn-block btn-about"><i className="fa fa-download" aria-hidden="true"></i> DOWNLOAD MY CV</button>
                 </a>
