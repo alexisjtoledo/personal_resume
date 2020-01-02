@@ -8,6 +8,7 @@ import "./index.css"; // Custom CSS
 // Importing Components
 import Sidebar from "./components/Sidebar.js"; // Sidebar
 import Navigation from "./components/Navigation.js"; // Navigation
+import Footer from './components/Footer.js'; // Footer
 import ScrollToTop from "./components/ScrollToTop"; // Scroll To Top Button
 import About from "./components/About.js"; // About
 import Experience from "./components/Experience.js"; // Experience
@@ -19,6 +20,7 @@ function App() {
   return (
     <Router>
       <Navigation />
+      <Footer />
       <div className="wrapper">
         <Sidebar />
         <Redirect from="/" to="/about" />

@@ -8,6 +8,11 @@ export class About extends Component {
         return (
             <div id="content">
             <div className="main-article" id="about">
+
+
+                {/* PONER ACA FOTO DE PERFIL QUE SE ESCONDA */}
+                
+                
                 <h1>Hello, I'm Alexis!</h1>
                 <p>I'm a <strong>Web & Graphic Designer</strong> from Córdoba, Argentina. I have more than 8 years of experience in graphic design and 3 years designing responsive web sites and web apps with HTML5, CSS3, and JS. I have experience working in most of the stages of web development and in solving problems.</p> 
 
