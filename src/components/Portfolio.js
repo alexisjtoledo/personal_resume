@@ -182,7 +182,7 @@ export class Portfolio extends Component {
 
                                         {/* Personal CV */}
                                         <div className="card shadow">
-                                            <div id="carouselFMnew" className="carousel slide" data-ride="carousel">
+                                            <div id="carouselCV" className="carousel slide" data-ride="carousel">
                                                 <div className="carousel-inner">
 
                                                     <div className="carousel-item active">
@@ -197,11 +197,11 @@ export class Portfolio extends Component {
                                                         <img src={cv_3} className="d-block w-100" alt="Alexis Toledo's CV webpage" />
                                                     </div>
                                                 </div>
-                                                <a className="carousel-control-prev" href="#carouselFMnew" role="button" data-slide="prev">
+                                                <a className="carousel-control-prev" href="#carouselCV" role="button" data-slide="prev">
                                                     <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                                                     <span className="sr-only">Previous</span>
                                                 </a>
-                                                <a className="carousel-control-next" href="#carouselFMnew" role="button" data-slide="next">
+                                                <a className="carousel-control-next" href="#carouselCV" role="button" data-slide="next">
                                                     <span className="carousel-control-next-icon" aria-hidden="true"></span>
                                                     <span className="sr-only">Next</span>
                                                 </a>
