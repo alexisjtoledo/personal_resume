@@ -53,7 +53,7 @@ a:focus {
   text-decoration: none !important;
   transition: all 1000ms;
   -webkit-transition: all 1000ms;
-  -moz-transition: all 100ms;
+  -moz-transition: all 1000ms;
 }
 
 h1 {
@@ -197,9 +197,9 @@ hr {
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.6);
   -webkit-box-shadow: 2px 0 5px rgba(0, 0, 0, 0.6);
   -moz-box-shadow: 2px 0 5px rgba(0, 0, 0, 0.6);
-  animation: sk 600ms ease;
-  -webkit-animation: sk 600ms ease;
-  -moz-animation: sk 600ms ease;
+  animation: sk 2000ms ease;
+  -webkit-animation: sk 2000ms ease;
+  -moz-animation: sk 2000ms ease;
 }
 
 #sidebar .sidebar-header {
@@ -365,6 +365,20 @@ nav .btn-info {
 
 #about p {
   font-size: 1.2rem;
+}
+
+.hidden-photo {
+  position: relative;
+  overflow: hidden;
+  width: 40%;
+  margin-bottom: 1em;
+  border-radius: 10%;
+  border: 5px solid #ffffff;
+  filter: drop-shadow(2px 2px 1px #394351);
+  -webkit-filter: drop-shadow(2px 2px 1px #394351);
+  animation: sk 2000ms ease;
+  -webkit-animation: sk 2000ms ease;
+  -moz-animation: sk 2000ms ease;
 }
 
 /* ====================================== */
@@ -1165,7 +1179,6 @@ a.no-link:hover {
     bottom: 4.5rem;
   }
 
-
   .timeline::after {
     left: 31px;
   }
@@ -1217,20 +1230,49 @@ a.no-link:hover {
   .job a {
     font-size: 1em !important;
   }
+
   #content a {
     padding: 2px 5px;
     font-size: 1rem;
     line-height: 1.7;
+  }
+
+  #about {
+    display: inline-flex;
+    flex-direction: row;
+    flex-flow: wrap;
+  }
+
+  .title-mobile {
+    font-size: 2rem;
+    margin: auto;
+    background: linear-gradient(
+      315deg,
+      rgba(5, 141, 174, 1) 0%,
+      rgba(50, 195, 190, 1) 50%
+    );
+    background: -webkit-linear-gradient(
+      315deg,
+      rgba(5, 141, 174, 1) 0%,
+      rgba(50, 195, 190, 1) 70%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .title-web {
+    display: none;
   }
 }
 
 /* Mid-size */
 @media (min-width: 570px) and (max-width: 768px) {
   #topnav {
-    visibility: hidden;
+    display: none;
   }
   .footer-menu {
-    visibility: hidden;
+    display: none;
   }
   #sidebar {
     margin-left: 0px;
@@ -1294,15 +1336,23 @@ a.no-link:hover {
   .job a {
     font-size: 0.6em !important;
   }
+
+  .hidden-photo {
+    display: none;
+  }
+
+  .title-mobile {
+    display: none;
+  }
 }
 
 /* Web */
 @media (min-width: 768px) {
   #topnav {
-    visibility: hidden;
+    display: none;
   }
   .footer-menu {
-    visibility: hidden;
+    display: none;
   }
   #sidebar {
     position: fixed;
@@ -1322,6 +1372,14 @@ a.no-link:hover {
 
   #content {
     margin-left: 250px;
+  }
+
+  .hidden-photo {
+    display: none;
+  }
+
+  .title-mobile {
+    display: none;
   }
 }
 
