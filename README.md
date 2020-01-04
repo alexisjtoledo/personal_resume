@@ -14,6 +14,12 @@ This is my Curriculum Vitae webpage. This is the virtual space I've created to s
 
 [Visit my website!](https://alexistoledo.dev)
 
-## Preview
+## Web
 
-![Website preview](src/img/preview.jpg "Website preview")
+![Website preview](src/img/preview_web.jpg "Website preview")
+
+## Mobile
+
+![Website preview](src/img/preview_mobile_1.jpg "Website preview")
+
+![Website preview](src/img/preview_mobile_2.jpg "Website preview")

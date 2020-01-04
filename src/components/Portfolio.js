@@ -6,6 +6,8 @@ import fmold_1 from '../img/portfolio/fmold_1.jpg';
 import fmold_2 from '../img/portfolio/fmold_2.jpg';
 import fmold_3 from '../img/portfolio/fmold_3.jpg';
 import cv_1 from '../img/portfolio/cv_1.png';
+import cv_2 from '../img/portfolio/cv_2.png';
+import cv_3 from '../img/portfolio/cv_3.png';
 import mad_1 from '../img/portfolio/mad_1.png';
 import mad_2 from '../img/portfolio/mad_2.png'
 import fmd_1 from '../img/portfolio/fmd_1.png';
@@ -180,7 +182,30 @@ export class Portfolio extends Component {
 
                                         {/* Personal CV */}
                                         <div className="card shadow">
-                                            <img src={cv_1} className="card-img-top" alt="Alexis Toledo's CV webpage" />
+                                            <div id="carouselFMnew" className="carousel slide" data-ride="carousel">
+                                                <div className="carousel-inner">
+
+                                                    <div className="carousel-item active">
+                                                        <img src={cv_1} className="d-block w-100" alt="Alexis Toledo's CV webpage" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={cv_2} className="d-block w-100" alt="Alexis Toledo's CV webpage" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={cv_3} className="d-block w-100" alt="Alexis Toledo's CV webpage" />
+                                                    </div>
+                                                </div>
+                                                <a className="carousel-control-prev" href="#carouselFMnew" role="button" data-slide="prev">
+                                                    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                    <span className="sr-only">Previous</span>
+                                                </a>
+                                                <a className="carousel-control-next" href="#carouselFMnew" role="button" data-slide="next">
+                                                    <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                                                    <span className="sr-only">Next</span>
+                                                </a>
+                                            </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2019 - Personal CV page</h5>
                                                 <p className="card-text">Adobe XD - ReactJS - Bootstrap 4 - Custom CSS</p>
