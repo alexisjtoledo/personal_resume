@@ -16,7 +16,7 @@ export class Experience extends Component {
                             <h4>Municipality of Córdoba</h4>
                             <h5>Cabinet Adviser</h5>
                             <p>I'm in charge of the development of the management systems of the educational programs of the Municipal Education System, its communication, and the coordination of its Community Managers. I also provide technical support in the programs developed by the schools. You can find the Open Source Applications I've developed on the <a href="https://github.com/ModernizacionMuniCBA" target="_blank" rel="noopener noreferrer">Github Repository</a> of that institution.</p>
-                            <p>Outstanding accomplishments:</p>
+                            <p><strong>Outstanding accomplishments:</strong></p>
                             <p>- I reduced the academic activities budget in almost 80 million Pesos
                             by suggesting and designing the digitalization of the annual
                             municipal congress. I also designed its mobile App.</p>
@@ -31,8 +31,7 @@ export class Experience extends Component {
                             <h5>Partner & Co-founder</h5>
                             <p>2612/c is a multimedia communication consultancy. We provide solutions from 2015 to both public and private sector clients and institutions. We take care of branding, digital communication, online
                             marketing, web development, and mobile apps. Some of our clients: National University of Córdoba &#40;2018&#41;, Capilla del Monte City Hall &#40;2017&#41;, Eilat Travel and Tourism &#40;2018&#41;, and so others.</p>
-                            <p>Outstanding accomplishments:</p>
-                            <p>- I am working in an open-source “Open Government” platform to help out
+                            <p>I am working in an open-source “Open Government” platform to help out
                             smalls and medium town halls of Argentina.</p>
                         </div>
                     </div>

@@ -14,7 +14,7 @@ export class About extends Component {
                 <h1 className="title-web">Hello, I'm Alexis!</h1>
                 {/* Regular content */}
                 <h1 className="title-mobile">Hello,<br />I'm Alexis!</h1>
-                <p>I'm a <strong>Front End Developer and a Graphic Designer</strong> from Córdoba, Argentina. I have more than 8 years of experience in graphic design and designing responsive web sites and web apps with HTML5, CSS3, and JS. I have experience working in most of the stages of web development and in solving problems.</p> 
+                <p>I'm a <strong>Front End Developer</strong> and <strong>Graphic Designer</strong> from Córdoba, Argentina. I have more than 8 years of experience in graphic design and designing responsive web sites and web apps with HTML5, CSS3, and JS. I have experience working in most of the stages of web development and in solving problems.</p> 
 
                 <p>I also have a strong background in management and teamwork. I'm an organized person, so I always try to keep my code &#40;and its documentation&#41; as clean as possible. An important part of my current job is digital marketing, so I know very well all the principles of SEO and the importance of building optimized webpages.</p>
                         
