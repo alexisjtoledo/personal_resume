@@ -44,7 +44,7 @@ export class Sidebar extends Component {
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.flickr.com/photos/185738046@N05/albums" className="no-back" target="_blank" rel="noopener noreferrer" alt="My Flickr Account">
+                        <a href="https://www.flickr.com/photos/alexisjtoledo/albums" className="no-back" target="_blank" rel="noopener noreferrer" alt="My Flickr Account">
                             <i className="fa fa-flickr" aria-hidden="true" alt="Flickr Logo"></i>
                         </a>
                     </li>

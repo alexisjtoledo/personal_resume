@@ -89,6 +89,10 @@ strong {
   color: #394351;
 }
 
+.btn-primary {
+  color: #394351 !important;
+}
+
 ::selection {
   background: rgba(5, 141, 174, 0.3);
 }
