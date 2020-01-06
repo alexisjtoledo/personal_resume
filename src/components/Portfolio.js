@@ -304,7 +304,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2014 - FMderecho old app</h5>
-                                                <p className="card-text">HTML5 - CSS3 - JS - jQuery - Phonegap Build</p>
+                                                <p className="card-text">HTML5 - CSS3 - JS - jQuery Mobile - Phonegap Build</p>
                                                 <a href="https://apkpure.com/es/fmderecho/com.franjamorada.fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">View in archive <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
