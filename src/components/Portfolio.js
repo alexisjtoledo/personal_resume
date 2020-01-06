@@ -252,6 +252,7 @@ export class Portfolio extends Component {
                                             <div className="card-body">
                                                 <h5 className="card-title">2016 - Parques Educativos old webpage</h5>
                                                 <p className="card-text">HTML5 + CSS3 + JS + jQuery</p>
+                                                <a href="https://educacion.cordoba.gob.ar/parqueseducativos/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Go to website <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
 
