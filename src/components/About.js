@@ -18,7 +18,7 @@ export class About extends Component {
 
                 <p>I also have a strong background in management and teamwork. I'm an organized person, so I always try to keep my code &#40;and its documentation&#41; as clean as possible. An important part of my current job is digital marketing, so I know very well all the principles of SEO and the importance of building optimized webpages.</p>
                         
-                <p>Currently, I'm working on strengthening my skills and learning modern technologies like NodeJS and ReactJS. I am also specializing in User Experience.</p>
+                <p>Currently, I'm working on strengthening my skills and learning modern technologies like NodeJS. I am also specializing in User Experience.</p>
                 <br />
 
                 <p><i className="fa fa-envelope" aria-hidden="true"></i> <strong>Contact me: </strong><a href="mailto:alexis.toledo@live.com" target="_blank" rel="noopener noreferrer"> alexis.toledo@live.com</a></p>
