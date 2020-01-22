@@ -223,24 +223,23 @@ export class Portfolio extends Component {
                                         <div className="card shadow">
                                             <div id="carouselTPI" className="carousel slide" data-ride="carousel">
                                                 <div className="carousel-inner">
-
                                                     <div className="carousel-item active">
                                                         <img src={tpi_1} className="d-block w-100" alt="TPI Automotores" />
                                                     </div>
 
-                                                    <div className="carousel-item active">
+                                                    <div className="carousel-item">
                                                         <img src={tpi_2} className="d-block w-100" alt="TPI Automotores" />
                                                     </div>
 
-                                                    <div className="carousel-item active">
+                                                    <div className="carousel-item">
                                                         <img src={tpi_3} className="d-block w-100" alt="TPI Automotores" />
                                                     </div>
 
-                                                    <div className="carousel-item active">
+                                                    <div className="carousel-item">
                                                         <img src={tpi_4} className="d-block w-100" alt="TPI Automotores" />
                                                     </div>
 
-                                                    <div className="carousel-item active">
+                                                    <div className="carousel-item">
                                                         <img src={tpi_5} className="d-block w-100" alt="TPI Automotores" />
                                                     </div>
                                                 </div>
@@ -254,7 +253,7 @@ export class Portfolio extends Component {
                                                 </a>
                                             </div>
                                             <div className="card-body">
-                                                <h5 className="card-title">2019 - Auto parts management software</h5>
+                                                <h5 className="card-title">2019 - Autoparts management software</h5>
                                                 <p className="card-text">Practical group work for college. My part: Front-end design, Query form filters development, and database modeling. Adobe Illustrator - Adobe Photoshop - Visual Studio - C# - MS SQL Server - GitHub</p>
                                                 <a href="https://github.com/alexisjtoledo/TPI-automotores" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">GitHub Repository <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
