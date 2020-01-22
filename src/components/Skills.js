@@ -75,11 +75,18 @@ export class Skills extends Component {
                 <h4>Online Marketing</h4>
                 <p>
                     <strong className="skills">Search Engine Optimization</strong>
+                    <strong className="skills">Search Engine Marketing</strong>
+                    <strong className="skills">Social Media Optimization</strong>
                     <strong className="skills">Social Media Marketing</strong>
                     <strong className="skills">Google Adwords</strong>
                     <strong className="skills">E-mail marketing</strong>
                     <strong className="skills">Digital Strategy</strong>
                     <strong className="skills">Photography</strong>
+                    <strong className="skills">Online Advertising</strong>
+                    <strong className="skills">Facebook Marketing</strong>
+                    <strong className="skills">Facebook Pixel</strong>
+                    <strong className="skills">Google Analytics</strong>
+                    <strong className="skills">Google Search Console</strong>
                 </p>
                 <h4>Soft Skills</h4>
                 <p>

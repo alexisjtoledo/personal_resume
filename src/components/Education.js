@@ -95,6 +95,20 @@ export class Education extends Component {
                             <p><a href="https://learndigital.withgoogle.com/activate/validate-certificate-code" target="_blank" rel="noopener noreferrer">Certificate verification</a></p>
                         </div>
                     </div>
+                    <div className="job left-job">
+                        <div className="content">
+                            <h3>2010</h3>
+                            <h4>Graphic Designer</h4>
+                            <h5>AES Institute</h5>
+                        </div>
+                    </div>
+                    <div className="job right-job">
+                        <div className="content">
+                            <h3>2009</h3>
+                            <h4>Computer Repair Technician</h4>
+                            <h5>National Institute of Informatics</h5>
+                        </div>
+                    </div>
                 </div>
                 <br />
                 <a href="https://www.linkedin.com/in/alexistoledo/?locale=en_US" target="_blank" rel="noopener noreferrer" className="no-link">

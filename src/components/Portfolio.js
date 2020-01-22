@@ -8,6 +8,11 @@ import fmold_3 from '../img/portfolio/fmold_3.jpg';
 import cv_1 from '../img/portfolio/cv_1.png';
 import cv_2 from '../img/portfolio/cv_2.png';
 import cv_3 from '../img/portfolio/cv_3.png';
+import tpi_1 from '../img/portfolio/tpi_1.jpg';
+import tpi_2 from '../img/portfolio/tpi_2.jpg';
+import tpi_3 from '../img/portfolio/tpi_3.jpg';
+import tpi_4 from '../img/portfolio/tpi_4.jpg';
+import tpi_5 from '../img/portfolio/tpi_5.jpg';
 import mad_1 from '../img/portfolio/mad_1.png';
 import mad_2 from '../img/portfolio/mad_2.png'
 import fmd_1 from '../img/portfolio/fmd_1.png';
@@ -175,8 +180,9 @@ export class Portfolio extends Component {
                                                 </a>
                                             </div>
                                             <div className="card-body">
-                                                <h5 className="card-title">2019 - FMderecho new app</h5>
-                                                <p className="card-text">Adobe XD - ReactJS</p>
+                                                <h5 className="card-title">2020 - FMderecho new app</h5>
+                                                <p className="card-text">The App is currently in the development stage and will be launched in March. Adobe Comp - Adobe XD - React Native</p>
+                                                <a href="/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Soon in App Store and Play Store <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
 
@@ -210,6 +216,47 @@ export class Portfolio extends Component {
                                                 <h5 className="card-title">2019 - Personal CV page</h5>
                                                 <p className="card-text">Adobe XD - ReactJS - Bootstrap 4 - Custom CSS</p>
                                                 <a href="/" className="btn btn-primary btn-block">Reload Page <i className="fa fa-repeat" aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+
+                                        {/* TPI Automotores */}
+                                        <div className="card shadow">
+                                            <div id="carouselTPI" className="carousel slide" data-ride="carousel">
+                                                <div className="carousel-inner">
+
+                                                    <div className="carousel-item active">
+                                                        <img src={tpi_1} className="d-block w-100" alt="TPI Automotores" />
+                                                    </div>
+
+                                                    <div className="carousel-item active">
+                                                        <img src={tpi_2} className="d-block w-100" alt="TPI Automotores" />
+                                                    </div>
+
+                                                    <div className="carousel-item active">
+                                                        <img src={tpi_3} className="d-block w-100" alt="TPI Automotores" />
+                                                    </div>
+
+                                                    <div className="carousel-item active">
+                                                        <img src={tpi_4} className="d-block w-100" alt="TPI Automotores" />
+                                                    </div>
+
+                                                    <div className="carousel-item active">
+                                                        <img src={tpi_5} className="d-block w-100" alt="TPI Automotores" />
+                                                    </div>
+                                                </div>
+                                                <a className="carousel-control-prev" href="#carouselTPI" role="button" data-slide="prev">
+                                                    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                    <span className="sr-only">Previous</span>
+                                                </a>
+                                                <a className="carousel-control-next" href="#carouselTPI" role="button" data-slide="next">
+                                                    <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                                                    <span className="sr-only">Next</span>
+                                                </a>
+                                            </div>
+                                            <div className="card-body">
+                                                <h5 className="card-title">2019 - Auto parts management software</h5>
+                                                <p className="card-text">Practical group work for college. My part: Front-end design, Query form filters development, and database modeling. Adobe Illustrator - Adobe Photoshop - Visual Studio - C# - MS SQL Server - GitHub</p>
+                                                <a href="https://github.com/alexisjtoledo/TPI-automotores" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">GitHub Repository <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
                                         

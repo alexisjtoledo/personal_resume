@@ -886,25 +886,7 @@ a.no-link:hover {
   font-size: 1.5rem !important;
   font-weight: 700 !important;
   text-decoration: none !important;
-  background: linear-gradient(
-    315deg,
-    rgba(5, 141, 174, 1) 0%,
-    rgba(50, 195, 190, 1) 100%
-  );
-  background: -webkit-linear-gradient(
-    315deg,
-    rgba(5, 141, 174, 1) 0%,
-    rgba(50, 195, 190, 1) 100%
-  );
-  background: -moz-linear-gradient(
-    315deg,
-    rgba(5, 141, 174, 1) 0%,
-    rgba(50, 195, 190, 1) 100%
-  );
-  background-clip: text;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #058dae !important;
 }
 
 .strong-link > span {
