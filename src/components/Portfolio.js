@@ -16,9 +16,6 @@ import tpi_5 from '../img/portfolio/tpi_5.jpg';
 import mad_1 from '../img/portfolio/mad_1.png';
 import mad_2 from '../img/portfolio/mad_2.png'
 import fmd_1 from '../img/portfolio/fmd_1.png';
-import fmapp_1 from '../img/portfolio/fmapp_1.png';
-import fmapp_2 from '../img/portfolio/fmapp_2.png';
-import fmapp_3 from '../img/portfolio/fmapp_3.png';
 import baustin_1 from '../img/portfolio/baustin_1.png';
 import fucordoba_1 from '../img/portfolio/fucordoba_1.png';
 import peducativosapp_1 from '../img/portfolio/peducativosapp_1.png';
@@ -155,33 +152,12 @@ export class Portfolio extends Component {
 
                                         {/* FMderecho New App */}
                                         <div className="card shadow">
-                                            <div id="carouselFMnew" className="carousel slide" data-ride="carousel">
-                                                <div className="carousel-inner">
-
-                                                    <div className="carousel-item active">
-                                                        <img src={fmapp_1} className="d-block w-100" alt="App fmderecho new version" />
-                                                    </div>
-
-                                                    <div className="carousel-item">
-                                                        <img src={fmapp_2} className="d-block w-100" alt="App fmderecho new version" />
-                                                    </div>
-
-                                                    <div className="carousel-item">
-                                                        <img src={fmapp_3} className="d-block w-100" alt="App fmderecho new version" />
-                                                    </div>
-                                                </div>
-                                                <a className="carousel-control-prev" href="#carouselFMnew" role="button" data-slide="prev">
-                                                    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                    <span className="sr-only">Previous</span>
-                                                </a>
-                                                <a className="carousel-control-next" href="#carouselFMnew" role="button" data-slide="next">
-                                                    <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                                                    <span className="sr-only">Next</span>
-                                                </a>
+                                            <div className="embed-responsive embed-responsive-1by1">
+                                                <iframe className="embed-responsive-item" title="App FM Derecho" src="https://www.youtube.com/embed/mFmy9RqiaY8" allowFullScreen></iframe>
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2020 - FMderecho new app</h5>
-                                                <p className="card-text">The App is currently in the development stage and will be launched in March. Adobe Comp - Adobe XD - React Native</p>
+                                                <p className="card-text">Under development &#40;rel: April 15th&#41;. React Native - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
                                                 <a href="/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Soon in App Store and Play Store <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
