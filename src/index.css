@@ -793,14 +793,14 @@ a.no-link:hover {
   width: 71%;
 }
 
-#w67 {
-  animation: w67 2000ms ease forwards;
-  -webkit-animation: w67 2000ms ease forwards;
-  -moz-animation: w67 2000ms ease forwards;
+#w54 {
+  animation: w54 2000ms ease forwards;
+  -webkit-animation: w54 2000ms ease forwards;
+  -moz-animation: w54 2000ms ease forwards;
 }
 
-.skill-bar .w67 {
-  width: 67%;
+.skill-bar .w54 {
+  width: 54%;
 }
 
 #w63 {
@@ -823,14 +823,14 @@ a.no-link:hover {
   width: 41%;
 }
 
-#w36 {
-  animation: w36 2000ms ease forwards;
-  -webkit-animation: w36 2000ms ease forwards;
-  -moz-animation: w36 2000ms ease forwards;
+#w28 {
+  animation: w28 2000ms ease forwards;
+  -webkit-animation: w28 2000ms ease forwards;
+  -moz-animation: w28 2000ms ease forwards;
 }
 
-.skill-bar .w36 {
-  width: 36%;
+.skill-bar .w28 {
+  width: 28%;
 }
 
 /* ====================================== */
@@ -1011,30 +1011,30 @@ a.no-link:hover {
   }
 }
 
-@keyframes w67 {
+@keyframes w54 {
   from {
     width: 0%;
   }
   to {
-    width: 67%;
+    width: 54%;
   }
 }
 
-@-webkit-keyframes w67 {
+@-webkit-keyframes w54 {
   from {
     width: 0%;
   }
   to {
-    width: 67%;
+    width: 54%;
   }
 }
 
-@-moz-keyframes w67 {
+@-moz-keyframes w54 {
   from {
     width: 0%;
   }
   to {
-    width: 67%;
+    width: 54%;
   }
 }
 
@@ -1092,30 +1092,30 @@ a.no-link:hover {
   }
 }
 
-@keyframes w36 {
+@keyframes w28 {
   from {
     width: 0%;
   }
   to {
-    width: 36%;
+    width: 28%;
   }
 }
 
-@-webkit-keyframes w36 {
+@-webkit-keyframes w28 {
   from {
     width: 0%;
   }
   to {
-    width: 36%;
+    width: 28%;
   }
 }
 
-@-moz-keyframes w36 {
+@-moz-keyframes w28 {
   from {
     width: 0%;
   }
   to {
-    width: 36%;
+    width: 28%;
   }
 }
 

@@ -25,32 +25,32 @@ export class Skills extends Component {
                     </span>
                 </div>
                 <div className="skill-bar">
-                    <span className="skill w71" id="w71">
-                        <p>C# + .NET</p>
-                    </span>
-                </div>
-                <div className="skill-bar">
-                    <span className="skill w67" id="w67">
-                        <p>Git + GitHub</p>
-                    </span>
-                </div>
-                <div className="skill-bar">
-                    <span className="skill w63" id="w63">
-                        <p>SQL</p>
-                    </span>
-                </div>
-                <div className="skill-bar">
-                    <span className="skill w41" id="w41">
+                    <span className="skill w54" id="w54">
                         <p>ReactJS</p>
                     </span>
                 </div>
                 <div className="skill-bar">
-                    <span className="skill w36" id="w36">
+                    <span className="skill w54" id="w54">
+                        <p>Git + GitHub</p>
+                    </span>
+                </div>
+                <div className="skill-bar">
+                    <span className="skill w41" id="w41">
+                        <p>C# + .NET</p>
+                    </span>
+                </div>
+                <div className="skill-bar">
+                    <span className="skill w41" id="w41">
+                        <p>SQL</p>
+                    </span>
+                </div>
+                <div className="skill-bar">
+                    <span className="skill w28" id="w28">
                         <p>NodeJS</p>
                     </span>
                 </div>
                 <div className="skill-bar">
-                    <span className="skill w36" id="w36">
+                    <span className="skill w28" id="w28">
                         <p>MongoDB</p>
                     </span>
                 </div>
