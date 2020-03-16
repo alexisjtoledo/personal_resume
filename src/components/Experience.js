@@ -12,10 +12,10 @@ export class Experience extends Component {
                 <div className="timeline">
                     <div className="job right-job">
                         <div className="content">
-                            <h3>2016 - PRESENT</h3>
+                            <h3>2016 - 2020</h3>
                             <h4>Municipality of Córdoba</h4>
                             <h5>Cabinet Adviser</h5>
-                            <p>I'm in charge of the development of the management systems of the educational programs of the Municipal Education System, its communication, and the coordination of its Community Managers. I also provide technical support in the programs developed by the schools. You can find the Open Source Applications I've developed on the <a href="https://github.com/ModernizacionMuniCBA" target="_blank" rel="noopener noreferrer">Github Repository</a> of that institution.</p>
+                            <p>I was in charge of the development of the management systems of the educational programs of the Municipal Education System, its communication, and the coordination of its Community Managers. I also provided technical support in the programs developed by the schools. You can find the Open Source Applications I've developed on the <a href="https://github.com/ModernizacionMuniCBA" target="_blank" rel="noopener noreferrer">Github Repository</a> of that institution.</p>
                             <p><strong>Outstanding accomplishments:</strong></p>
                             <p>- I reduced the academic activities budget in almost 80 million Pesos
                             by suggesting and designing the digitalization of the annual

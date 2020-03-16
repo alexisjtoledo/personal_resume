@@ -1152,10 +1152,10 @@ export class Portfolio extends Component {
                                         {/* Bumper Next */}
                                         <div className="card shadow">
                                             <div className="embed-responsive embed-responsive-16by9">
-                                                <iframe className="embed-responsive-item" title="Ad Bumper for Next" src="https://www.youtube.com/embed/wxg4X47HPnI" allowFullScreen></iframe>
+                                                <iframe className="embed-responsive-item" title="Bumper Ad for Next" src="https://www.youtube.com/embed/wxg4X47HPnI" allowFullScreen></iframe>
                                             </div>
                                             <div className="card-body">
-                                                <h5 className="card-title">2018 - Ad Bumper for Next &#40;Eilat&#41;</h5>
+                                                <h5 className="card-title">2018 - Bumper Ad for Next &#40;Eilat&#41;</h5>
                                                 <p className="card-text">Adobe After Effects</p>
                                             </div>
                                         </div>
