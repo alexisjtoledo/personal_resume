@@ -14,11 +14,12 @@ export class About extends Component {
                 <h1 className="title-web">Hello, I'm Alexis!</h1>
                 {/* Regular content */}
                 <h1 className="title-mobile">Hello,<br />I'm Alexis!</h1>
-                <p>I'm a <strong>Front End Developer</strong> and <strong>Graphic Designer</strong> based in Copenhaguen, Denmark. I have more than 8 years of experience in graphic design and designing responsive web sites and web apps with HTML5, CSS3, and JS. I have experience working in most of the stages of web development and in solving problems.</p> 
+                <p>I'm a <strong>Front End Developer</strong> based in Copenhaguen, Denmark. I have more than 8 years of experience building simple websites &#40;HTML + CSS + JS&#41; and more than two using modern Javascript frameworks as React and React-Native. I have strong knowledge in almost all stages of development.</p>
 
-                <p>I also have a strong background in management and teamwork. I'm an organized person, so I always try to keep my code &#40;and its documentation&#41; as clean as possible. An important part of my current job is digital marketing, so I know very well all the principles of SEO and the importance of building optimized webpages.</p>
-                        
-                <p>Currently, I'm working on strengthening my skills and learning modern technologies like NodeJS. I am also specializing in User Experience.</p>
+                <p>I am also a <strong>Graphic Designer</strong> with around 10 years in the field, so I also have a good understanding of User Experience and a unique approach to engaging designs. Although my role as a developer was principally individually-based, I am also used to team-working with the same good results.</p>
+
+                <p>I am a responsible and ambitious person who loves keeping the clients satisfied with every project.</p>
+
                 <br />
 
                 <p><i className="fa fa-envelope" aria-hidden="true"></i> <strong>Contact me: </strong><a href="mailto:alexis.toledo@live.com" target="_blank" rel="noopener noreferrer"> alexis.toledo@live.com</a> - <a href="tel:+4550389693" rel="noopener noreferrer">+45 50 38 96 93</a></p>

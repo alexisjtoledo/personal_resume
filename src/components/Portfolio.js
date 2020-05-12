@@ -157,8 +157,8 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2020 - FMderecho new app</h5>
-                                                <p className="card-text">Under development &#40;rel: April 15th&#41;. React Native - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
-                                                <a href="/" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Soon in App Store and Play Store <i className="fa fa-sign-out" aria-hidden="true"></i></a>
+                                                <p className="card-text">Under development &#40;rel: July 15th&#41;. React Native - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
+                                                <a href="https://github.com/alexisjtoledo/fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">View repository <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
 
@@ -230,7 +230,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2019 - Autoparts management software</h5>
-                                                <p className="card-text">Practical group work for college. My part: Front-end design, Query form filters development, and database modeling. Adobe Illustrator - Adobe Photoshop - Visual Studio - C# - MS SQL Server - GitHub</p>
+                                                <p className="card-text">Practical group work for college. My part: Front-end design, Query form filters development, and some database modeling. Adobe Illustrator - Adobe Photoshop - Visual Studio - C# - MS SQL Server - GitHub</p>
                                                 <a href="https://github.com/alexisjtoledo/TPI-automotores" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">GitHub Repository <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>

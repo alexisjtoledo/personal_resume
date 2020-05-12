@@ -45,13 +45,69 @@ export class Education extends Component {
                     </div>
                     <div className="job left-job">
                         <div className="content">
+                            <h3>2020</h3>
+                            <h4>Essential ReactJS</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job right-job">
+                        <div className="content">
+                            <h3>2020</h3>
+                            <h4>Advanced JS: Web Animation</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job left-job">
+                        <div className="content">
+                            <h3>2020</h3>
+                            <h4>Advanced JS: Regular Expressions</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job right-job">
+                        <div className="content">
+                            <h3>2020</h3>
+                            <h4>Advanced JS: ES6 version</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job left-job">
+                        <div className="content">
+                            <h3>2020</h3>
+                            <h4>Advanced JS: Best Practices</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job right-job">
+                        <div className="content">
+                            <h3>2020</h3>
+                            <h4>Advanced Javascript</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job left-job">
+                        <div className="content">
+                            <h3>2020</h3>
+                            <h4>Essential Javascript</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job right-job">
+                        <div className="content">
                             <h3>2019</h3>
                             <h4>CEFR levels C1 & C2</h4>
                             <h5>English for IT</h5>
                             <p><a href="https://www.english4it.com/profiles/112780" target="_blank" rel="noopener noreferrer">Certificate</a></p>
                         </div>
                     </div>
-                    <div className="job right-job">
+                    <div className="job left-job">
                         <div className="content">
                             <h3>2019</h3>
                             <h4>Cloud Computing</h4>
@@ -60,7 +116,7 @@ export class Education extends Component {
                             <p><a href="https://learndigital.withgoogle.com/activate/validate-certificate-code" target="_blank" rel="noopener noreferrer">Certificate verification</a></p>
                         </div>
                     </div>
-                    <div className="job left-job">
+                    <div className="job right-job">
                         <div className="content">
                             <h3>2019</h3>
                             <h4>Introduction to Web Development</h4>
@@ -69,7 +125,7 @@ export class Education extends Component {
                             <p><a href="https://learndigital.withgoogle.com/activate/validate-certificate-code" target="_blank" rel="noopener noreferrer">Certificate verification</a></p>    
                         </div>
                     </div>
-                    <div className="job right-job">
+                    <div className="job left-job">
                         <div className="content">
                             <h3>2018</h3>
                             <h4>Mobile Apps Development</h4>
@@ -78,7 +134,7 @@ export class Education extends Component {
                             <p><a href="https://learndigital.withgoogle.com/activate/validate-certificate-code" target="_blank" rel="noopener noreferrer">Certificate verification</a></p>
                         </div>
                     </div>
-                    <div className="job left-job">
+                    <div className="job right-job">
                         <div className="content">
                             <h3>2018</h3>
                             <h4>Standarized English Test: C1 Advanced</h4>
@@ -86,7 +142,7 @@ export class Education extends Component {
                             <p><a href="https://www.efset.org/cert/n9J81B" target="_blank" rel="noopener noreferrer">Certificate</a></p>
                         </div>
                     </div>
-                    <div className="job right-job">
+                    <div className="job left-job">
                         <div className="content">
                             <h3>2018</h3>
                             <h4>Digital Marketing Fundamentals</h4>
@@ -95,14 +151,14 @@ export class Education extends Component {
                             <p><a href="https://learndigital.withgoogle.com/activate/validate-certificate-code" target="_blank" rel="noopener noreferrer">Certificate verification</a></p>
                         </div>
                     </div>
-                    <div className="job left-job">
+                    <div className="job right-job">
                         <div className="content">
                             <h3>2010</h3>
                             <h4>Graphic Designer</h4>
                             <h5>AES Institute</h5>
                         </div>
                     </div>
-                    <div className="job right-job">
+                    <div className="job left-job">
                         <div className="content">
                             <h3>2009</h3>
                             <h4>Computer Repair Technician</h4>
