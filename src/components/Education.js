@@ -51,7 +51,7 @@ export class Education extends Component {
                             <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
                         </div>
                     </div>
-                    <div className="job left-job">
+                    <div className="job right-job">
                         <div className="content">
                             <h3>2020</h3>
                             <h4>Advanced CSS</h4>
