@@ -157,7 +157,7 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2020 - FMderecho new app</h5>
-                                                <p className="card-text">Under development &#40;rel: July 15th&#41;. React Native - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
+                                                <p className="card-text">Under development &#40;rel: August 2020&#41;. React Native - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
                                                 <a href="https://github.com/alexisjtoledo/fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">View repository <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>

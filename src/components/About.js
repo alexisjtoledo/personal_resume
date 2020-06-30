@@ -16,7 +16,7 @@ export class About extends Component {
                 <h1 className="title-mobile">Hello,<br />I'm Alexis!</h1>
                 <p>I'm a <strong>Front End Developer</strong> based in Copenhaguen, Denmark. I have more than 8 years of experience building simple websites &#40;HTML + CSS + JS&#41; and more than two using modern Javascript frameworks as React and React-Native. I have strong knowledge in almost all stages of development.</p>
 
-                <p>I am also a <strong>Graphic Designer</strong> with around 10 years in the field, so I also have a good understanding of User Experience and a unique approach to engaging designs. Although my role as a developer was principally individually-based, I am also used to team-working with the same good results.</p>
+                <p>I also have around 10 years as a <strong>Graphic Designer</strong>, so I have a good understanding of User Experience and a unique approach to engaging designs. Although my role as a developer was principally individually-based, I am also used to team-working with the same good results.</p>
 
                 <p>I am a responsible and ambitious person who loves keeping the clients satisfied with every project.</p>
 

@@ -46,6 +46,22 @@ export class Education extends Component {
                     <div className="job left-job">
                         <div className="content">
                             <h3>2020</h3>
+                            <h4>SASS Essential Training</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job left-job">
+                        <div className="content">
+                            <h3>2020</h3>
+                            <h4>Advanced CSS</h4>
+                            <h5>LinkedIn Learning</h5>
+                            <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
+                        </div>
+                    </div>
+                    <div className="job left-job">
+                        <div className="content">
+                            <h3>2020</h3>
                             <h4>Essential ReactJS</h4>
                             <h5>LinkedIn Learning</h5>
                             <p><a href="https://www.linkedin.com/in/alexistoledo/" target="_blank" rel="noopener noreferrer">Certificate</a></p>
