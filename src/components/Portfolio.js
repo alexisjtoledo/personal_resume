@@ -5,6 +5,9 @@ import cme_3 from '../img/portfolio/cme_3.jpg';
 import fmold_1 from '../img/portfolio/fmold_1.jpg';
 import fmold_2 from '../img/portfolio/fmold_2.jpg';
 import fmold_3 from '../img/portfolio/fmold_3.jpg';
+import fmnew_1 from '../img/portfolio/fmnew_1.png';
+import fmnew_2 from '../img/portfolio/fmnew_2.png';
+import fmnew_3 from '../img/portfolio/fmnew_3.png';
 import cv_1 from '../img/portfolio/cv_1.png';
 import cv_2 from '../img/portfolio/cv_2.png';
 import cv_3 from '../img/portfolio/cv_3.png';
@@ -152,13 +155,40 @@ export class Portfolio extends Component {
 
                                         {/* FMderecho New App */}
                                         <div className="card shadow">
-                                            <div className="embed-responsive embed-responsive-1by1">
-                                                <iframe className="embed-responsive-item" title="App FM Derecho" src="https://www.youtube.com/embed/-bq6FDu8PPQ" allowFullScreen></iframe>
+                                            {/* <div className="embed-responsive embed-responsive-1by1">
+                                                <iframe className="embed-responsive-item" title="App FM Derecho" src="https://www.youtube.com/embed/PaNxM35Pgm8" allowFullScreen></iframe>
+                                            </div> */}
+                                            <div id="carouselfmapp" className="carousel slide" data-ride="carousel">
+                                                <div className="carousel-inner">
+
+                                                    <div className="carousel-item active">
+                                                        <img src={fmnew_1} className="d-block w-100" alt="Franja Morada's New App" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={fmnew_2} className="d-block w-100" alt="Franja Morada's New App" />
+                                                    </div>
+
+                                                    <div className="carousel-item">
+                                                        <img src={fmnew_3} className="d-block w-100" alt="Franja Morada's New App" />
+                                                    </div>
+                                                </div>
+                                                <a className="carousel-control-prev" href="#carouselfmapp" role="button" data-slide="prev">
+                                                    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                    <span className="sr-only">Previous</span>
+                                                </a>
+                                                <a className="carousel-control-next" href="#carouselfmapp" role="button" data-slide="next">
+                                                    <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                                                    <span className="sr-only">Next</span>
+                                                </a>
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2020 - FMderecho new app</h5>
-                                                <p className="card-text">Under development &#40;rel: August 2020&#41;. React Native - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
+                                                <p className="card-text">Release August 2020. React Native - GCP - PHP - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
                                                 <a href="https://github.com/alexisjtoledo/fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">View repository <i className="fa fa-sign-out" aria-hidden="true"></i></a>
+                                                <a href="https://www.youtube.com/watch?v=PaNxM35Pgm8" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Watch Video Overview <i className="fa fa-sign-out" aria-hidden="true"></i></a>
+                                                {/* <a href="https://github.com/alexisjtoledo/fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Soon in Play Store <i className="fa fa-sign-out" aria-hidden="true"></i></a>
+                                                <a href="https://github.com/alexisjtoledo/fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Soon in Apple Atore <i className="fa fa-sign-out" aria-hidden="true"></i></a> */}
                                             </div>
                                         </div>
 
