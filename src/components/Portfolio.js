@@ -184,11 +184,11 @@ export class Portfolio extends Component {
                                             </div>
                                             <div className="card-body">
                                                 <h5 className="card-title">2020 - FMderecho new app</h5>
-                                                <p className="card-text">Release August 2020. React Native - GCP - PHP - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
+                                                <p className="card-text">Release delayed due COVID. React Native - GCP - PHP - Adobe Illustrator - Adobe Photoshop - Adobe Premiere Pro</p>
                                                 <a href="https://github.com/alexisjtoledo/fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">View repository <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                                 <a href="https://www.youtube.com/watch?v=PaNxM35Pgm8" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Watch Video Overview <i className="fa fa-sign-out" aria-hidden="true"></i></a>
-                                                {/* <a href="https://github.com/alexisjtoledo/fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Soon in Play Store <i className="fa fa-sign-out" aria-hidden="true"></i></a>
-                                                <a href="https://github.com/alexisjtoledo/fmderecho" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Soon in Apple Atore <i className="fa fa-sign-out" aria-hidden="true"></i></a> */}
+                                                <a href="https://play.google.com/store/apps/details?id=com.fmderecho.fmapp" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block">Find it on Play Store<i className="fa fa-sign-out" aria-hidden="true"></i></a>
+                                                <a href="http://alexistoledo.dev" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-block disabled">Soon on Apple Store <i className="fa fa-sign-out" aria-hidden="true"></i></a>
                                             </div>
                                         </div>
 

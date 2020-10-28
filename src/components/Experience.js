@@ -14,23 +14,20 @@ export class Experience extends Component {
                         <div className="content">
                             <h3>2015 - 2020</h3>
                             <h4>Municipality of Córdoba</h4>
-                            <h5>Cabinet Adviser</h5>
-                            <p>In charge of the managing of the communication team.</p>
+                            <h5>Modernization Chief Advisor</h5>
                             <p><strong>Main Roles:</strong></p>
-                            <p>Coordination and supervision of Community Managers, Communication Strategy of the department, General and main Graphic Design, Apps development, Webmaster.</p>
-                            <p><strong>Outstanding accomplishments:</strong></p>
-                            <p>- Led the digitalization of the annual municipal congress that reduced 40% of the academic activities budget. Designed the App around which the project was developed.</p>
-                            <p>- Proposed and coordinated the centralizing of the data of all institution's centers in one place. Developed the design of this project website and contributed with the team who designed the Back-End.</p>
-                            <p>- Trained CM's and gave them the tools needed to create easily digital flyers for minor activities, that decreased considerably the posting time.</p>
-                            <p>- Designed a sub-identity for the Educative Parks inspired on the main identity but thought for storytelling.</p>
+                            <p>Strategic coordination with the Innovation, IT and Press Departments.</p>
+                            <p>Ad-hoc applications, websites and landing pages development.</p>
+                            <p>Head of communication of the Education Department.</p>
+                            <p>Multimedia developing and supervision.</p>
                             <p>You can find the Open Source Applications I've developed/contributed on the <a href="https://github.com/ModernizacionMuniCBA" target="_blank" rel="noopener noreferrer">Github Repository</a> of that institution.</p>
                         </div>
                     </div>
                     <div className="job left-job">
                         <div className="content">
-                            <h3>2015 - PRESENT</h3>
+                            <h3>2015 - 2020</h3>
                             <h4>2612/c Communication Consultancy</h4>
-                            <h5>Partner & Co-founder</h5>
+                            <h5>Co-worker</h5>
                             <p>2612/c is a multimedia communication consultancy. We provide solutions since 2015 to both public and private sector clients and institutions. We take care of branding, digital communication, online marketing, advertising, and web & development. Some of our clients are the National University of Córdoba &#40;2018-2020&#41;, Franja Morada UNC &#40;2020&#41;, Eilat Travel and Tourism &#40;2018&#41;, Uniqa Health System &#40;2018&#41;, Güemes disco &#40;2018&#41;, Capilla del Monte City Hall &#40;2017&#41;, National Congresswoman Elías de Pérez &#40;2017&#41;, MercoCED &#40;2016&#41;, Ana Nicoletti &#40;electoral campaign&#41; &#40;2015&#41;, Franja Morada UBA &#40;2014&#41;, Governor Gerardo Morales &#40;external advice for electoral campaign&#41; &#40;2014&#41;.</p>
                             <p>I am working in an open-source “Open Government” platform to help smalls and medium town halls of Argentina.</p>
                         </div>
@@ -39,7 +36,7 @@ export class Experience extends Component {
                         <div className="content">
                             <h3>2016</h3>
                             <h4>Brenda Austin National Congresswoman</h4>
-                            <p>I worked in her communication team for the midterm elections. Roles: Campaign strategy, editorial design, web design.</p>
+                            <p>I worked in her communication team for the midterm elections. Roles: Digital strategy, editorial and web design.</p>
                         </div>
                     </div>
                     <div className="job left-job">
