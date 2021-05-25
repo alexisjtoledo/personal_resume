@@ -2,7 +2,7 @@
   "name": "cv-app",
   "version": "0.1.0",
   "author": "Alexis Toledo",
-  "homepage": "https://alexisjtoledo.github.io/personal_resume/",
+  "homepage": "https://alexisjtoledo.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
